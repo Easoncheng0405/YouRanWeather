@@ -1,0 +1,7 @@
+<litepal>
+    <dbname value="YouRanWeather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.jilinuniversity.youranweather.db.City"/>
+    </list>
+</litepal>
